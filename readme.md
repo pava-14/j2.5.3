@@ -18,7 +18,6 @@
             <consoleOutput>true</consoleOutput>
             <failsOnError>true</failsOnError>
             <linkXRef>false</linkXRef>
-            <configLocation>checkstyle.xml</configLocation>
         </configuration>
         <executions>
             <execution>
